@@ -1,0 +1,2 @@
+# Car-Price-Prediction-Using-Machine-Learning.ipynb
+ developMachine learning model that accurately predicts the price of used cars based on various attributes like brand, model, year, mileage, fuel type, and transmission.The dataset is sourced from a reliable database containing information about used cars, including attributes such as brand, model, year, mileage, fuel type, transmission, and price.
